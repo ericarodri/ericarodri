@@ -1,4 +1,4 @@
-# 💫 Olá, eu sou a Erica!:
+# 💫 Olá, eu sou a Erica!
 🎓 Estudante de Sistemas de Informação<br>💻 Atualmente atuo como QA Salesforce<br>
 
 
