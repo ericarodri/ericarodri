@@ -1,5 +1,5 @@
 # 💫 Olá, eu sou a Erica!
-🎓 Estudante de Sistemas de Informação<br>💻 Atualmente trabalho como QA Salesforce<br>
+🎓 Estudante de Sistemas de Informação<br>💻 Atualmente trabalho com Salesforce<br>
 
 
 # 💻 Tech Stack:
