@@ -10,7 +10,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ericarodri&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
